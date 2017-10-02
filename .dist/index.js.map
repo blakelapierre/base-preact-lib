@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";;AAAA;;;;;;AAGAA,QAAQC,GAAR,CAAY,sBAAZ","file":"index.js","sourcesContent":["import Sample from './sample';\n\n\nconsole.log(new Sample());"]}

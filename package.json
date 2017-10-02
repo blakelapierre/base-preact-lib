@@ -3,7 +3,7 @@
   "version": "0.2.1",
   "description": "Base Node.JS Development Environment",
   "repository": "https://github.com/blakelapierre/base-node",
-  "main": "index.js",
+  "main": ".dist/index.js",
   "author": "Blake La Pierre",
   "license": "MIT",
   "devDependencies": {
