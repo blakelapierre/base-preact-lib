@@ -1,1 +1,4 @@
-console.log('Now run you some ECMAScript 2015!');
+import Sample from './sample';
+
+
+console.log(new Sample());
